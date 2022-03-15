@@ -1,0 +1,235 @@
+{
+    "timestamp": "2022-03-01T07:37:08.699+0000",
+    "status": {
+      "code": 200,
+      "type": "OK",
+      "message": "Fetch all portal contents successfully.",
+      "error": false
+    },
+    "errors": [],
+    "data": [
+      {
+        "id": "S_50_300",
+        "status": "pending",
+        "content": [
+          [
+            {
+              "vmsid": "PI1",
+              "vmsContent": {
+                "brightnessMode": "AUTOMATED",
+                "displayMode": "FIXED",
+                "contentType": "IMAGE",
+                "data": "14",
+                "imageURI": null
+              }
+            }
+          ],
+          [
+            {
+              "vmsid": "PI1",
+              "vmsContent": {
+                "brightnessMode": "AUTOMATED",
+                "displayMode": "FIXED",
+                "contentType": "IMAGE",
+                "data": "14",
+                "imageURI": null
+              }
+            },
+            {
+              "vmsid": "PI2",
+              "vmsContent": {
+                "brightnessMode": "AUTOMATED",
+                "displayMode": "FIXED",
+                "contentType": "IMAGE",
+                "data": "15",
+                "imageURI": null
+              }
+            },
+            {
+              "vmsid": "PI3",
+              "vmsContent": {
+                "brightnessMode": "DAY",
+                "displayMode": "OFF",
+                "contentType": "TEXT",
+                "data": "Test 1",
+                "imageURI": null
+              }
+            },
+            {
+              "vmsid": "PI4",
+              "vmsContent": {
+                "brightnessMode": "DAY",
+                "displayMode": "OFF",
+                "contentType": "TEXT",
+                "data": "",
+                "imageURI": null
+              }
+            },
+            {
+              "vmsid": "PI5",
+              "vmsContent": {
+                "brightnessMode": "DAY",
+                "displayMode": "OFF",
+                "contentType": "TEXT",
+                "data": "",
+                "imageURI": null
+              }
+            }
+          ],
+          [
+            {
+              "vmsid": "PI1",
+              "vmsContent": {
+                "brightnessMode": "AUTOMATED",
+                "displayMode": "FIXED",
+                "contentType": "IMAGE",
+                "data": "14",
+                "imageURI": null
+              }
+            }
+          ]
+        ]
+      },
+      {
+        "id": "S_47_750",
+        "status": "pending",
+        "content": [
+          [
+            {
+              "vmsid": "PI1",
+              "vmsContent": {
+                "brightnessMode": "NIGHT",
+                "displayMode": "OFF",
+                "contentType": "TEXT",
+                "data": "test1 1",
+                "imageURI": null
+              }
+            },
+            {
+              "vmsid": "PI2",
+              "vmsContent": {
+                "brightnessMode": "NIGHT",
+                "displayMode": "OFF",
+                "contentType": "TEXT",
+                "data": "test 1 2",
+                "imageURI": null
+              }
+            },
+            {
+              "vmsid": "PI3",
+              "vmsContent": {
+                "brightnessMode": "NIGHT",
+                "displayMode": "OFF",
+                "contentType": "TEXT",
+                "data": "test 1 3",
+                "imageURI": null
+              }
+            },
+            {
+              "vmsid": "PI4",
+              "vmsContent": {
+                "brightnessMode": "NIGHT",
+                "displayMode": "OFF",
+                "contentType": "TEXT",
+                "data": "test 1 4",
+                "imageURI": null
+              }
+            },
+            {
+              "vmsid": "PI5",
+              "vmsContent": {
+                "brightnessMode": "DAY",
+                "displayMode": "OFF",
+                "contentType": "TEXT",
+                "data": "tess",
+                "imageURI": null
+              }
+            }
+          ]
+        ]
+      },
+      {
+        "id": "S_48_220",
+        "status": "pending",
+        "content": [
+          [
+            {
+              "vmsid": "PI1",
+              "vmsContent": {
+                "brightnessMode": "AUTOMATED",
+                "displayMode": "FIXED",
+                "contentType": "IMAGE",
+                "data": "0",
+                "imageURI": null
+              }
+            }
+          ],
+          [
+            {
+              "vmsid": "PI1",
+              "vmsContent": {
+                "brightnessMode": "AUTOMATED",
+                "displayMode": "FIXED",
+                "contentType": "IMAGE",
+                "data": "0",
+                "imageURI": null
+              }
+            },
+            {
+              "vmsid": "PI2",
+              "vmsContent": {
+                "brightnessMode": "AUTOMATED",
+                "displayMode": "OFF",
+                "contentType": "IMAGE",
+                "data": "",
+                "imageURI": null
+              }
+            },
+            {
+              "vmsid": "PI3",
+              "vmsContent": {
+                "brightnessMode": "DAY",
+                "displayMode": "FIXED",
+                "contentType": "TEXT",
+                "data": "test",
+                "imageURI": null
+              }
+            },
+            {
+              "vmsid": "PI4",
+              "vmsContent": {
+                "brightnessMode": "DAY",
+                "displayMode": "OFF",
+                "contentType": "TEXT",
+                "data": "alam",
+                "imageURI": null
+              }
+            },
+            {
+              "vmsid": "PI5",
+              "vmsContent": {
+                "brightnessMode": "DAY",
+                "displayMode": "OFF",
+                "contentType": "TEXT",
+                "data": "asdmamm",
+                "imageURI": null
+              }
+            }
+          ],
+          [
+            {
+              "vmsid": "PI1",
+              "vmsContent": {
+                "brightnessMode": "AUTOMATED",
+                "displayMode": "FIXED",
+                "contentType": "IMAGE",
+                "data": "0",
+                "imageURI": null
+              }
+            }
+          ]
+        ]
+      }
+    ],
+    "path": "https://serv-roadside-display/contents"
+  }

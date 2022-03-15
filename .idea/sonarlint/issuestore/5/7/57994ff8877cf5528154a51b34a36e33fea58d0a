@@ -1,0 +1,27 @@
+
+:
+java:S2386"Make this member "protected".(şò²ø8 ¹Áïô/
+b
+java:S1124	"EReorder the modifiers to comply with the Java Language Specification.(ÑÅ‰Ç8§¹Áïô/
+g
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(Ù¿®ÿÿÿÿÿ8§¹Áïô/
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(şò²ø8§¹Áïô/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÿéÁí8ª¹Áïô/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¦ì¿ƒ8¯¹Áïô/
+T	java:S106#"9Replace this use of System.out or System.err by a logger.(Ò—Û8´¹Áïô/
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ8º¹Áïô/
+L
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8¼¹Áïô/
+B
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8áŸÎïô/
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8áŸÎïô/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡8¾¹Áïô/
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(à–áå8¾¹Áïô/
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8È¹Áïô/
+T
+java:S2589("7Remove this expression which always evaluates to "true"(§ûÌÎ8† Îïô/

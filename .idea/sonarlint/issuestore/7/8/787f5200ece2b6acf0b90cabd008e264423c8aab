@@ -1,0 +1,11 @@
+
+Y
+java:S1854"<Remove this useless assignment to local variable "sendData".(İë‹Ô8¤›Öïô/
+L
+java:S1197"*Move the array designators [] to the type.(ùï¾ÿÿÿÿÿ8¥›Öïô/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(…ø8­›Öïô/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼’øÜıÿÿÿÿ8¯›Öïô/
+m	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉŒ²©8¯›Öïô/
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËÕÉ‰8¯›Öïô/
+h
+java:S2095	"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(êŠÃX8¿›Öïô/

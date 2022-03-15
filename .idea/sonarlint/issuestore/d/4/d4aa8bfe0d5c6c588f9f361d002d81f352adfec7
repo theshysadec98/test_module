@@ -1,0 +1,237 @@
+
+	java:S116"`Rename this field "communication_counter" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æó½àÿÿÿÿÿ8œÖïô/
+n	java:S116"RRename this field "UdpPort" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›á›¿8œÖïô/
+u	java:S116"TRename this field "IPaddress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼“îÑøÿÿÿÿ8œÖïô/
+n	java:S116"RRename this field "Timeout" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ‚Ùş8œÖïô/
+~	java:S116"]Rename this field "MultiZone_elements" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¼Õÿÿÿÿÿ8œÖïô/
+
+java:S1130#"{Remove the declaration of thrown exception 'java.net.UnknownHostException', as it cannot be thrown from constructor's body.(ï¶ÎÖÿÿÿÿÿ8›œÖïô/
+o	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áâŠ­ıÿÿÿÿ8œœÖïô/
+]	java:S1251"<This block of commented-out lines of code should be removed.(¨¯ùğøÿÿÿÿ8œÖïô/
+C
+java:S1905F"&Remove this unnecessary cast to "int".(šèÄ’8œÖïô/
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(¾î…®8 œÖïô/
+j	java:S100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€õÂ“8 œÖïô/
+j	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤¿áô8¡œÖïô/
+j	java:S100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àç“ù8¢œÖïô/
+o	java:S100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôÁÁùÿÿÿÿÿ8£œÖïô/
+o	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ…––ıÿÿÿÿ8¤œÖïô/
+]	java:S125f"<This block of commented-out lines of code should be removed.(’…µ¸ûÿÿÿÿ8¤œÖïô/
+j	java:S100l"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ªŞú8¥œÖïô/
+j	java:S100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì¡Ì8¥œÖïô/
+j	java:S100t"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ıûè8¦œÖïô/
+o	java:S100|"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÿñ¸úÿÿÿÿ8¦œÖïô/
+X	java:S125w"<This block of commented-out lines of code should be removed.(ÈÏÎµ8¨œÖïô/
+X	java:S125z"<This block of commented-out lines of code should be removed.(ÒÒ˜ç8¨œÖïô/
+Y	java:S125€"<This block of commented-out lines of code should be removed.(„öò8©œÖïô/
+^	java:S125…"<This block of commented-out lines of code should be removed.(¨¯ùğøÿÿÿÿ8©œÖïô/
+^	java:S125“"<This block of commented-out lines of code should be removed.(Êò›ªøÿÿÿÿ8ªœÖïô/
+^	java:S125 "<This block of commented-out lines of code should be removed.(Áûüÿÿÿÿ8«œÖïô/
+D
+java:S1905£"&Remove this unnecessary cast to "int".(šèÄ’8«œÖïô/
+Y	java:S125®"<This block of commented-out lines of code should be removed.(Îéã8¬œÖïô/
+p	java:S100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÄøÿÿÿÿ8¬œÖïô/
+^	java:S125½"<This block of commented-out lines of code should be removed.(îÓ¨úşÿÿÿÿ8¯œÖïô/
+>
+java:S1110ó"!Remove these useless parentheses.(‘´êr8±œÖïô/
+D
+java:S1110÷"!Remove these useless parentheses.(Ô—ÊÁşÿÿÿÿ8±œÖïô/
+J
+java:S1905ø"'Remove this unnecessary cast to "byte".(ò„‚øÿÿÿÿ8²œÖïô/
+D
+java:S1905ı"&Remove this unnecessary cast to "int".(ß³Ûº8²œÖïô/
+D
+java:S1905ı"&Remove this unnecessary cast to "int".(ß³Ûº8²œÖïô/
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(ä¸ßùüÿÿÿÿ8´œÖïô/
+p	java:S100‘"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›îş‹ùÿÿÿÿ8µœÖïô/
+^	java:S125š"<This block of commented-out lines of code should be removed.(îÓ¨úşÿÿÿÿ8¹œÖïô/
+>
+java:S1110Ğ"!Remove these useless parentheses.(‘´êr8»œÖïô/
+D
+java:S1110Ô"!Remove these useless parentheses.(Ô—ÊÁşÿÿÿÿ8¼œÖïô/
+J
+java:S1905Õ"'Remove this unnecessary cast to "byte".(ò„‚øÿÿÿÿ8¼œÖïô/
+D
+java:S1905Ú"&Remove this unnecessary cast to "int".(ß³Ûº8¼œÖïô/
+D
+java:S1905Ú"&Remove this unnecessary cast to "int".(ß³Ûº8½œÖïô/
+V	java:S106é"9Replace this use of System.out or System.err by a logger.(¡İ8¾œÖïô/
+p	java:S100ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤İõ«ùÿÿÿÿ8¾œÖïô/
+J
+java:S1905’"'Remove this unnecessary cast to "byte".(§›Âíıÿÿÿÿ8ÁœÖïô/
+D
+java:S1110¥"!Remove these useless parentheses.(«²íîüÿÿÿÿ8ÃœÖïô/
+D
+java:S1905­"&Remove this unnecessary cast to "int".(ß³Ûº8ÄœÖïô/
+D
+java:S1905­"&Remove this unnecessary cast to "int".(ß³Ûº8ÄœÖïô/
+[	java:S106º"9Replace this use of System.out or System.err by a logger.(ÎêŒ´ÿÿÿÿÿ8ÅœÖïô/
+k	java:S100Â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬…”ß8ÅœÖïô/
+^	java:S125À"<This block of commented-out lines of code should be removed.(ãÛ¸µşÿÿÿÿ8ÆœÖïô/
+V	java:S106Ä"9Replace this use of System.out or System.err by a logger.(Ø¬Šˆ8ÇœÖïô/
+^	java:S125Ê"<This block of commented-out lines of code should be removed.(¨¯ùğøÿÿÿÿ8ÇœÖïô/
+^	java:S125Ì"<This block of commented-out lines of code should be removed.(Ë¢² ùÿÿÿÿ8ÇœÖïô/
+D
+java:S1110¤"!Remove these useless parentheses.(ğÄ†µşÿÿÿÿ8ÈœÖïô/
+D
+java:S1905¯"&Remove this unnecessary cast to "int".(šèÄ’8ÈœÖïô/
+^	java:S125º"<This block of commented-out lines of code should be removed.(•ï¨¸üÿÿÿÿ8ÉœÖïô/
+p	java:S100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®‚ñÈıÿÿÿÿ8ÉœÖïô/
+V	java:S106À"9Replace this use of System.out or System.err by a logger.(Ø¬Šˆ8ËœÖïô/
+^	java:S125Æ"<This block of commented-out lines of code should be removed.(¨¯ùğøÿÿÿÿ8ËœÖïô/
+^	java:S125È"<This block of commented-out lines of code should be removed.(Ë¢² ùÿÿÿÿ8ËœÖïô/
+D
+java:S1110 "!Remove these useless parentheses.(ğÄ†µşÿÿÿÿ8ÌœÖïô/
+D
+java:S1905«"&Remove this unnecessary cast to "int".(šèÄ’8ÍœÖïô/
+^	java:S125¶"<This block of commented-out lines of code should be removed.(•ï¨¸üÿÿÿÿ8ÍœÖïô/
+p	java:S100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÉÁÿÿÿÿÿ8ÍœÖïô/
+V	java:S106Å"9Replace this use of System.out or System.err by a logger.(ÉêÑ›8ÏœÖïô/
+^	java:S125Ä"<This block of commented-out lines of code should be removed.(Ó²Åæÿÿÿÿÿ8ÏœÖïô/
+p	java:S100Ì"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ÿã·üÿÿÿÿ8ÏœÖïô/
+N
+java:S1172Ì"+Remove this unused method parameter "Path".(…Ÿã·üÿÿÿÿ8ĞœÖïô/
+V	java:S106Ó"9Replace this use of System.out or System.err by a logger.(Ñ†ß²8ÑœÖïô/
+^	java:S125Ò"<This block of commented-out lines of code should be removed.(Ó²Åæÿÿÿÿÿ8ÑœÖïô/
+p	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Îíôûÿÿÿÿ8ÑœÖïô/
+[	java:S106ã"9Replace this use of System.out or System.err by a logger.(šƒŞ¾üÿÿÿÿ8ÒœÖïô/
+^	java:S125â"<This block of commented-out lines of code should be removed.(Ó²Åæÿÿÿÿÿ8ÒœÖïô/
+k	java:S100ñ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…·ª8ÒœÖïô/
+^	java:S125ú"<This block of commented-out lines of code should be removed.(îÓ¨úşÿÿÿÿ8ïœÖïô/
+^	java:S125¡"<This block of commented-out lines of code should be removed.(›ÜÙ“øÿÿÿÿ8ñœÖïô/
+D
+java:S1110©"!Remove these useless parentheses.(ëÅ¨úÿÿÿÿ8ñœÖïô/
+Y	java:S125µ"<This block of commented-out lines of code should be removed.(‘ ¼Š8ñœÖïô/
+>
+java:S1110È"!Remove these useless parentheses.(‘´êr8òœÖïô/
+D
+java:S1110Ì"!Remove these useless parentheses.(Ô—ÊÁşÿÿÿÿ8òœÖïô/
+J
+java:S1905Í"'Remove this unnecessary cast to "byte".(ò„‚øÿÿÿÿ8òœÖïô/
+D
+java:S1905Ò"&Remove this unnecessary cast to "int".(ß³Ûº8óœÖïô/
+D
+java:S1905Ò"&Remove this unnecessary cast to "int".(ß³Ûº8óœÖïô/
+V	java:S106á"9Replace this use of System.out or System.err by a logger.(®È¶†8óœÖïô/
+k	java:S100ç"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êî¯Œ8ôœÖïô/
+^	java:S125ğ"<This block of commented-out lines of code should be removed.(îÓ¨úşÿÿÿÿ8öœÖïô/
+^	java:S125”"<This block of commented-out lines of code should be removed.(›ÜÙ“øÿÿÿÿ8öœÖïô/
+D
+java:S1110œ"!Remove these useless parentheses.(ãºƒ®úÿÿÿÿ8÷œÖïô/
+Y	java:S125®"<This block of commented-out lines of code should be removed.(‘ ¼Š8÷œÖïô/
+>
+java:S1110Á"!Remove these useless parentheses.(‘´êr8÷œÖïô/
+D
+java:S1110Å"!Remove these useless parentheses.(Ô—ÊÁşÿÿÿÿ8÷œÖïô/
+J
+java:S1905Æ"'Remove this unnecessary cast to "byte".(ò„‚øÿÿÿÿ8÷œÖïô/
+D
+java:S1905Ë"&Remove this unnecessary cast to "int".(ß³Ûº8øœÖïô/
+D
+java:S1905Ë"&Remove this unnecessary cast to "int".(ß³Ûº8øœÖïô/
+V	java:S106Ú"9Replace this use of System.out or System.err by a logger.(®È¶†8ùœÖïô/
+p	java:S100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Øİşÿÿÿÿ8ùœÖïô/
+p	java:S100é"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“æõªüÿÿÿÿ8úœÖïô/
+i
+java:S4143¦"FVerify this is the index that was intended; it was already set before.(’¤Õùÿÿÿÿ8ûœÖïô/
+i
+java:S4143¥"FVerify this is the index that was intended; it was already set before.(‹œÒùÿÿÿÿ8ûœÖïô/
+i
+java:S4143ª"FVerify this is the index that was intended; it was already set before.(®¯˜–øÿÿÿÿ8ûœÖïô/
+d
+java:S4143«"FVerify this is the index that was intended; it was already set before.(ß´Ùå8ûœÖïô/
+i
+java:S4143§"FVerify this is the index that was intended; it was already set before.(ØÊÑéÿÿÿÿÿ8ûœÖïô/
+d
+java:S4143©"FVerify this is the index that was intended; it was already set before.(ú‘¯£8úœÖïô/
+D
+java:S1110È"!Remove these useless parentheses.(«²íîüÿÿÿÿ8ıœÖïô/
+D
+java:S1905Ğ"&Remove this unnecessary cast to "int".(ß³Ûº8şœÖïô/
+D
+java:S1905Ğ"&Remove this unnecessary cast to "int".(ß³Ûº8şœÖïô/
+[	java:S106İ"9Replace this use of System.out or System.err by a logger.(ÎêŒ´ÿÿÿÿÿ8ÿœÖïô/
+k	java:S100â"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç‡Ø“8ÿœÖïô/
+^	java:S125ñ"<This block of commented-out lines of code should be removed.(ùÛ¸ºúÿÿÿÿ8Öïô/
+Y	java:S125ò"<This block of commented-out lines of code should be removed.(®Í‰ó8Öïô/
+D
+java:S1905¶	"&Remove this unnecessary cast to "int".(ß³Ûº8ƒÖïô/
+D
+java:S1905¶	"&Remove this unnecessary cast to "int".(ß³Ûº8ƒÖïô/
+[	java:S106Ã	"9Replace this use of System.out or System.err by a logger.(ŸÎıšûÿÿÿÿ8…Öïô/
+k	java:S100È	"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ëŠ8‡Öïô/
+^	java:S125×	"<This block of commented-out lines of code should be removed.(’×èšşÿÿÿÿ8‰Öïô/
+Y	java:S125Ø	"<This block of commented-out lines of code should be removed.(®Í‰ó8‰Öïô/
+D
+java:S1905¤
+"&Remove this unnecessary cast to "int".(ß³Ûº8ŠÖïô/
+D
+java:S1905¤
+"&Remove this unnecessary cast to "int".(ß³Ûº8ŠÖïô/
+[	java:S106±
+"9Replace this use of System.out or System.err by a logger.(ªÎÃæÿÿÿÿÿ8ŒÖïô/
+D
+java:S1905¸
+"&Remove this unnecessary cast to "int".(ß³Ûº8Öïô/
+D
+java:S1905¸
+"&Remove this unnecessary cast to "int".(ß³Ûº8Öïô/
+[	java:S106Å
+"9Replace this use of System.out or System.err by a logger.(ªÎÃæÿÿÿÿÿ8Öïô/
+Y	java:S125Ç
+"<This block of commented-out lines of code should be removed.(ªëş“8Öïô/
+l
+java:S1192Œ"IDefine a constant instead of duplicating this literal "write : " 5 times.(ä¸ßùüÿÿÿÿ8“Öïô/
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ÿ˜‡8—Öïô/
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¶ÎÖÿÿÿÿÿ8—Öïô/
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï¶ÎÖÿÿÿÿÿ8—Öïô/
+m	java:S117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èàöø8—Öïô/
+l	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¸¶{8˜Öïô/
+r	java:S117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÿñ¸úÿÿÿÿ8˜Öïô/
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èàöø8˜Öïô/
+n	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞúÙ8˜Öïô/
+s	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÄøÿÿÿÿ8˜Öïô/
+s	java:S117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãÄøÿÿÿÿ8˜Öïô/
+n	java:S117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èàöø8˜Öïô/
+n	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ³‘û8˜Öïô/
+s	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›îş‹ùÿÿÿÿ8™Öïô/
+s	java:S117‘"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›îş‹ùÿÿÿÿ8™Öïô/
+n	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èàöø8™Öïô/
+n	java:S117•"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ³‘û8™Öïô/
+s	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤İõ«ùÿÿÿÿ8™Öïô/
+s	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤İõ«ùÿÿÿÿ8™Öïô/
+n	java:S117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èàöø8™Öïô/
+n	java:S117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ³‘û8™Öïô/
+n	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬…”ß8™Öïô/
+n	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èàöø8™Öïô/
+n	java:S117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ŒÃÈ8™Öïô/
+s	java:S117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®‚ñÈıÿÿÿÿ8™Öïô/
+n	java:S117Â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èàöø8™Öïô/
+n	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ŒÃÈ8šÖïô/
+s	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÉÁÿÿÿÿÿ8šÖïô/
+s	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÉÁÿÿÿÿÿ8šÖïô/
+s	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ÿã·üÿÿÿÿ8šÖïô/
+s	java:S117Ì"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ÿã·üÿÿÿÿ8šÖïô/
+s	java:S117Ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Îíôûÿÿÿÿ8šÖïô/
+n	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…·ª8šÖïô/
+n	java:S117ñ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…·ª8šÖïô/
+n	java:S117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èàöø8šÖïô/
+n	java:S117õ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ³‘û8šÖïô/
+n	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êî¯Œ8šÖïô/
+n	java:S117ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êî¯Œ8šÖïô/
+n	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èàöø8šÖïô/
+n	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ³‘û8›Öïô/
+s	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Øİşÿÿÿÿ8›Öïô/
+s	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´Øİşÿÿÿÿ8›Öïô/
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“æõªüÿÿÿÿ8›Öïô/
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“æõªüÿÿÿÿ8›Öïô/
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“æõªüÿÿÿÿ8›Öïô/
+s	java:S117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“æõªüÿÿÿÿ8›Öïô/
+n	java:S117î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èàöø8›Öïô/
+n	java:S117ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ³‘û8œÖïô/
+n	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç‡Ø“8œÖïô/
+n	java:S117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç‡Ø“8œÖïô/
+n	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èàöø8œÖïô/
+n	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ³‘û8œÖïô/
+n	java:S117Ê	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èàöø8œÖïô/
+n	java:S117Ì	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ³‘û8œÖïô/

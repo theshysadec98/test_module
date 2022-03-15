@@ -1,0 +1,43 @@
+{
+    "name": "12",
+    "content": [
+        [
+            {
+                "brightnessMode": "HIGHLIGHTED",
+                "displayMode": "ALTERNATE",
+                "contentType": "IMAGE",
+                "data": "14",
+                "imageURI": "http://mivisu-service.feature-rv-46.rmhub.leannet.eu/pcpmv/images/icones/TGG_64_cercle_30.png"
+            }
+        ],
+        [
+            {
+                "brightnessMode": "AUTOMATED",
+                "displayMode": "FIXED",
+                "contentType": "TEXT",
+                "data": "asdasd"
+            },
+            {
+                "brightnessMode": "AUTOMATED",
+                "displayMode": "FIXED",
+                "contentType": "TEXT",
+                "data": "sadasdsa"
+            },
+            {
+                "brightnessMode": "AUTOMATED",
+                "displayMode": "FIXED",
+                "contentType": "TEXT",
+                "data": "asdasd"
+            }
+        ],
+        [
+            {
+                "brightnessMode": "AUTOMATED",
+                "displayMode": "FIXED",
+                "contentType": "IMAGE",
+                "data": "17",
+                "imageURI": "http://mivisu-service.feature-rv-46.rmhub.leannet.eu/pcpmv/images/icones/TGG_64_cercle_80.png"
+            }
+        ]
+    ]
+}
