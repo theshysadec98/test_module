@@ -1,0 +1,7 @@
+version: '2'
+services:
+  serv-roadside-display:
+    image: hoanglm98/test-thoi:latest
+    ports:
+      - "8017:8017"
+

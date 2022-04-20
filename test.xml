@@ -1,0 +1,10 @@
+case test:
+1- sessionId đúng, stationId đúng, highway đúng 
+2. sessionId đúng, stationId sai, highway đúng 
+3. sessionId đúng, stationId đúng, highway sai 
+4. sessionId đúng, stationId sai, highway sai 
+5. sessionId sai, stationId đúng, highway đúng 
+6. sessionId sai, stationId sai, highway đúng 
+7. sessionId sai, stationId đúng, highway sai 
+8. sessionId sai, stationId sai, highway sai 
+9. sessionId sai, stationId đúng, highway sai 

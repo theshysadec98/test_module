@@ -1,43 +1,61 @@
-{
-    "name": "12",
-    "content": [
-        [
-            {
-                "brightnessMode": "HIGHLIGHTED",
-                "displayMode": "ALTERNATE",
-                "contentType": "IMAGE",
-                "data": "14",
-                "imageURI": "http://mivisu-service.feature-rv-46.rmhub.leannet.eu/pcpmv/images/icones/TGG_64_cercle_30.png"
-            }
-        ],
-        [
-            {
-                "brightnessMode": "AUTOMATED",
-                "displayMode": "FIXED",
-                "contentType": "TEXT",
-                "data": "asdasd"
-            },
-            {
-                "brightnessMode": "AUTOMATED",
-                "displayMode": "FIXED",
-                "contentType": "TEXT",
-                "data": "sadasdsa"
-            },
-            {
-                "brightnessMode": "AUTOMATED",
-                "displayMode": "FIXED",
-                "contentType": "TEXT",
-                "data": "asdasd"
-            }
-        ],
-        [
-            {
-                "brightnessMode": "AUTOMATED",
-                "displayMode": "FIXED",
-                "contentType": "IMAGE",
-                "data": "17",
-                "imageURI": "http://mivisu-service.feature-rv-46.rmhub.leannet.eu/pcpmv/images/icones/TGG_64_cercle_80.png"
-            }
+[
+    {
+        "id": "VJRT_173_610",
+        "sessionDisplayDelay": "10s",
+        "content": [
+            [
+                {
+                    "vmsid": "PI1",
+                    "vmsContent": {
+                        "brightnessMode": "",
+                        "displayMode": "",
+                        "contentType": "IMAGE",
+                        "data": "",
+                        "imageURI": "51.bmp"
+                    }
+                },
+                {
+                    "vmsid": "LI1",
+                    "vmsContent": {
+                        "brightnessMode": "",
+                        "displayMode": "",
+                        "contentType": "TEXT",
+                        "data": "",
+                        "imageURI": "CONTROL 500"
+                    }
+                }
+            ]
         ]
-    ]
-}
+    },
+    {
+        "id": "VJRT_174_250",
+        "name": "VJRT_174_250",
+        "description": "portal showing before the axle measurement station to show direction for vehicles to join measurement session",
+        "sessionDisplayDelay": "30s",
+        "location": null,
+        "content": [
+            [
+                {
+                    "vmsid": "PI1",
+                    "vmsContent": {
+                        "brightnessMode": "",
+                        "displayMode": "",
+                        "contentType": "IMAGE",
+                        "data": "",
+                        "imageURI": "52.bmp"
+                    }
+                },
+                {
+                    "vmsid": "LI1",
+                    "vmsContent": {
+                        "brightnessMode": "",
+                        "displayMode": "",
+                        "contentType": "TEXT",
+                        "data": "KNK895",
+                        "imageURI": ""
+                    }
+                }
+            ]
+        ]
+    }
+]
